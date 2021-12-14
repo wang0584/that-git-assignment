@@ -1,8 +1,7 @@
 # MAD9112
 
-## Hardware and Network Fundamentals
-
-### Fall of 2020
+## Essential Tools for Mobile Development
+### Fall of 2021
 
 * * *
 
